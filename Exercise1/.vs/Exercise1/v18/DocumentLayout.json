@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Class Work\\Data Access\\Exercise1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4AAFDF-7D91-4F97-92D0-DF5C82F03077}|Exercise1\\Exercise1.csproj|d:\\class work\\data access\\exercise1\\exercise1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4AAFDF-7D91-4F97-92D0-DF5C82F03077}|Exercise1\\Exercise1.csproj|solutionrelative:exercise1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4AAFDF-7D91-4F97-92D0-DF5C82F03077}|Exercise1\\Exercise1.csproj|d:\\class work\\data access\\exercise1\\exercise1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3A4AAFDF-7D91-4F97-92D0-DF5C82F03077}|Exercise1\\Exercise1.csproj|solutionrelative:exercise1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4AAFDF-7D91-4F97-92D0-DF5C82F03077}|Exercise1\\Exercise1.csproj|d:\\class work\\data access\\exercise1\\exercise1\\tech2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4AAFDF-7D91-4F97-92D0-DF5C82F03077}|Exercise1\\Exercise1.csproj|solutionrelative:exercise1\\tech2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Class Work\\Data Access\\Exercise1\\Exercise1\\appsettings.json",
+              "RelativeDocumentMoniker": "Exercise1\\appsettings.json",
+              "ToolTip": "D:\\Class Work\\Data Access\\Exercise1\\Exercise1\\appsettings.json",
+              "RelativeToolTip": "Exercise1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-18T19:34:31.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tech2Context.cs",
+              "DocumentMoniker": "D:\\Class Work\\Data Access\\Exercise1\\Exercise1\\Tech2Context.cs",
+              "RelativeDocumentMoniker": "Exercise1\\Tech2Context.cs",
+              "ToolTip": "D:\\Class Work\\Data Access\\Exercise1\\Exercise1\\Tech2Context.cs",
+              "RelativeToolTip": "Exercise1\\Tech2Context.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T20:42:28.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Class Work\\Data Access\\Exercise1\\Exercise1\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise1\\Program.cs",
+              "ToolTip": "D:\\Class Work\\Data Access\\Exercise1\\Exercise1\\Program.cs",
+              "RelativeToolTip": "Exercise1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T19:29:26.744Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

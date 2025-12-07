@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Class Work\\Data Access\\AutosMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{848AAE50-7A6D-4FA3-B363-F7169089C3B4}|AutosMVC\\AutosMVC.csproj|d:\\class work\\data access\\autosmvc\\autosmvc\\controllers\\bankscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848AAE50-7A6D-4FA3-B363-F7169089C3B4}|AutosMVC\\AutosMVC.csproj|solutionrelative:autosmvc\\controllers\\bankscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848AAE50-7A6D-4FA3-B363-F7169089C3B4}|AutosMVC\\AutosMVC.csproj|d:\\class work\\data access\\autosmvc\\autosmvc\\controllers\\autoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848AAE50-7A6D-4FA3-B363-F7169089C3B4}|AutosMVC\\AutosMVC.csproj|solutionrelative:autosmvc\\controllers\\autoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848AAE50-7A6D-4FA3-B363-F7169089C3B4}|AutosMVC\\AutosMVC.csproj|d:\\class work\\data access\\autosmvc\\autosmvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848AAE50-7A6D-4FA3-B363-F7169089C3B4}|AutosMVC\\AutosMVC.csproj|solutionrelative:autosmvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848AAE50-7A6D-4FA3-B363-F7169089C3B4}|AutosMVC\\AutosMVC.csproj|d:\\class work\\data access\\autosmvc\\autosmvc\\models\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848AAE50-7A6D-4FA3-B363-F7169089C3B4}|AutosMVC\\AutosMVC.csproj|solutionrelative:autosmvc\\models\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848AAE50-7A6D-4FA3-B363-F7169089C3B4}|AutosMVC\\AutosMVC.csproj|d:\\class work\\data access\\autosmvc\\autosmvc\\models\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848AAE50-7A6D-4FA3-B363-F7169089C3B4}|AutosMVC\\AutosMVC.csproj|solutionrelative:autosmvc\\models\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848AAE50-7A6D-4FA3-B363-F7169089C3B4}|AutosMVC\\AutosMVC.csproj|d:\\class work\\data access\\autosmvc\\autosmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{848AAE50-7A6D-4FA3-B363-F7169089C3B4}|AutosMVC\\AutosMVC.csproj|solutionrelative:autosmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{848AAE50-7A6D-4FA3-B363-F7169089C3B4}|AutosMVC\\AutosMVC.csproj|d:\\class work\\data access\\autosmvc\\autosmvc\\data\\seedautos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{848AAE50-7A6D-4FA3-B363-F7169089C3B4}|AutosMVC\\AutosMVC.csproj|solutionrelative:autosmvc\\data\\seedautos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SeedAutos.cs",
+              "DocumentMoniker": "D:\\Class Work\\Data Access\\AutosMVC\\AutosMVC\\Data\\SeedAutos.cs",
+              "RelativeDocumentMoniker": "AutosMVC\\Data\\SeedAutos.cs",
+              "ToolTip": "D:\\Class Work\\Data Access\\AutosMVC\\AutosMVC\\Data\\SeedAutos.cs",
+              "RelativeToolTip": "AutosMVC\\Data\\SeedAutos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T04:17:38.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BanksController.cs",
+              "DocumentMoniker": "D:\\Class Work\\Data Access\\AutosMVC\\AutosMVC\\Controllers\\BanksController.cs",
+              "RelativeDocumentMoniker": "AutosMVC\\Controllers\\BanksController.cs",
+              "ToolTip": "D:\\Class Work\\Data Access\\AutosMVC\\AutosMVC\\Controllers\\BanksController.cs",
+              "RelativeToolTip": "AutosMVC\\Controllers\\BanksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T04:16:14.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutoesController.cs",
+              "DocumentMoniker": "D:\\Class Work\\Data Access\\AutosMVC\\AutosMVC\\Controllers\\AutoesController.cs",
+              "RelativeDocumentMoniker": "AutosMVC\\Controllers\\AutoesController.cs",
+              "ToolTip": "D:\\Class Work\\Data Access\\AutosMVC\\AutosMVC\\Controllers\\AutoesController.cs",
+              "RelativeToolTip": "AutosMVC\\Controllers\\AutoesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T04:15:39.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Class Work\\Data Access\\AutosMVC\\AutosMVC\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AutosMVC\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Class Work\\Data Access\\AutosMVC\\AutosMVC\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AutosMVC\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T04:13:07.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "D:\\Class Work\\Data Access\\AutosMVC\\AutosMVC\\Models\\Auto.cs",
+              "RelativeDocumentMoniker": "AutosMVC\\Models\\Auto.cs",
+              "ToolTip": "D:\\Class Work\\Data Access\\AutosMVC\\AutosMVC\\Models\\Auto.cs",
+              "RelativeToolTip": "AutosMVC\\Models\\Auto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T04:12:43.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "D:\\Class Work\\Data Access\\AutosMVC\\AutosMVC\\Models\\Bank.cs",
+              "RelativeDocumentMoniker": "AutosMVC\\Models\\Bank.cs",
+              "ToolTip": "D:\\Class Work\\Data Access\\AutosMVC\\AutosMVC\\Models\\Bank.cs",
+              "RelativeToolTip": "AutosMVC\\Models\\Bank.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T04:11:58.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Class Work\\Data Access\\AutosMVC\\AutosMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "AutosMVC\\appsettings.json",
+              "ToolTip": "D:\\Class Work\\Data Access\\AutosMVC\\AutosMVC\\appsettings.json",
+              "RelativeToolTip": "AutosMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-22T04:11:27.932Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

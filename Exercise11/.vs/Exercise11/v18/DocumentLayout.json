@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Class Work\\Data Access\\Exercise11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F249A48-F2AC-4871-A62B-6CC2C493F7A3}|Exercise11\\Exercise11.csproj|d:\\class work\\data access\\exercise11\\exercise11\\salesordersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F249A48-F2AC-4871-A62B-6CC2C493F7A3}|Exercise11\\Exercise11.csproj|solutionrelative:exercise11\\salesordersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F249A48-F2AC-4871-A62B-6CC2C493F7A3}|Exercise11\\Exercise11.csproj|d:\\class work\\data access\\exercise11\\exercise11\\adventureworkscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F249A48-F2AC-4871-A62B-6CC2C493F7A3}|Exercise11\\Exercise11.csproj|solutionrelative:exercise11\\adventureworkscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F249A48-F2AC-4871-A62B-6CC2C493F7A3}|Exercise11\\Exercise11.csproj|d:\\class work\\data access\\exercise11\\exercise11\\exercise11.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2F249A48-F2AC-4871-A62B-6CC2C493F7A3}|Exercise11\\Exercise11.csproj|solutionrelative:exercise11\\exercise11.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F249A48-F2AC-4871-A62B-6CC2C493F7A3}|Exercise11\\Exercise11.csproj|d:\\class work\\data access\\exercise11\\exercise11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F249A48-F2AC-4871-A62B-6CC2C493F7A3}|Exercise11\\Exercise11.csproj|solutionrelative:exercise11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exercise11.csproj",
+              "DocumentMoniker": "D:\\Class Work\\Data Access\\Exercise11\\Exercise11\\Exercise11.csproj",
+              "RelativeDocumentMoniker": "Exercise11\\Exercise11.csproj",
+              "ToolTip": "D:\\Class Work\\Data Access\\Exercise11\\Exercise11\\Exercise11.csproj",
+              "RelativeToolTip": "Exercise11\\Exercise11.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-11T15:57:38.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SalesOrdersDTO.cs",
+              "DocumentMoniker": "D:\\Class Work\\Data Access\\Exercise11\\Exercise11\\SalesOrdersDTO.cs",
+              "RelativeDocumentMoniker": "Exercise11\\SalesOrdersDTO.cs",
+              "ToolTip": "D:\\Class Work\\Data Access\\Exercise11\\Exercise11\\SalesOrdersDTO.cs",
+              "RelativeToolTip": "Exercise11\\SalesOrdersDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T00:25:49.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdventureWorksContext.cs",
+              "DocumentMoniker": "D:\\Class Work\\Data Access\\Exercise11\\Exercise11\\AdventureWorksContext.cs",
+              "RelativeDocumentMoniker": "Exercise11\\AdventureWorksContext.cs",
+              "ToolTip": "D:\\Class Work\\Data Access\\Exercise11\\Exercise11\\AdventureWorksContext.cs",
+              "RelativeToolTip": "Exercise11\\AdventureWorksContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T21:25:14.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Class Work\\Data Access\\Exercise11\\Exercise11\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise11\\Program.cs",
+              "ToolTip": "D:\\Class Work\\Data Access\\Exercise11\\Exercise11\\Program.cs",
+              "RelativeToolTip": "Exercise11\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T21:24:26.952Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

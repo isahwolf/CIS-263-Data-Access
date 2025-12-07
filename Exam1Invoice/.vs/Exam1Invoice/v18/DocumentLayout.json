@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Class Work\\Data Access\\Exam1Invoice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4FB795-ECDC-4FA2-AD49-BC046CB4776B}|Exam1Invoice\\Exam1Invoice.csproj|d:\\class work\\data access\\exam1invoice\\exam1invoice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4FB795-ECDC-4FA2-AD49-BC046CB4776B}|Exam1Invoice\\Exam1Invoice.csproj|solutionrelative:exam1invoice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4FB795-ECDC-4FA2-AD49-BC046CB4776B}|Exam1Invoice\\Exam1Invoice.csproj|d:\\class work\\data access\\exam1invoice\\exam1invoice\\exam1invoice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AF4FB795-ECDC-4FA2-AD49-BC046CB4776B}|Exam1Invoice\\Exam1Invoice.csproj|solutionrelative:exam1invoice\\exam1invoice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4FB795-ECDC-4FA2-AD49-BC046CB4776B}|Exam1Invoice\\Exam1Invoice.csproj|d:\\class work\\data access\\exam1invoice\\exam1invoice\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4FB795-ECDC-4FA2-AD49-BC046CB4776B}|Exam1Invoice\\Exam1Invoice.csproj|solutionrelative:exam1invoice\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4FB795-ECDC-4FA2-AD49-BC046CB4776B}|Exam1Invoice\\Exam1Invoice.csproj|d:\\class work\\data access\\exam1invoice\\exam1invoice\\migrations\\20250209192234_create_invoices_table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4FB795-ECDC-4FA2-AD49-BC046CB4776B}|Exam1Invoice\\Exam1Invoice.csproj|solutionrelative:exam1invoice\\migrations\\20250209192234_create_invoices_table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4FB795-ECDC-4FA2-AD49-BC046CB4776B}|Exam1Invoice\\Exam1Invoice.csproj|d:\\class work\\data access\\exam1invoice\\exam1invoice\\migrations\\20250209191650_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4FB795-ECDC-4FA2-AD49-BC046CB4776B}|Exam1Invoice\\Exam1Invoice.csproj|solutionrelative:exam1invoice\\migrations\\20250209191650_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4FB795-ECDC-4FA2-AD49-BC046CB4776B}|Exam1Invoice\\Exam1Invoice.csproj|d:\\class work\\data access\\exam1invoice\\exam1invoice\\invoicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4FB795-ECDC-4FA2-AD49-BC046CB4776B}|Exam1Invoice\\Exam1Invoice.csproj|solutionrelative:exam1invoice\\invoicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250209192234_Create_invoices_table.cs",
+              "DocumentMoniker": "D:\\Class Work\\Data Access\\Exam1Invoice\\Exam1Invoice\\Migrations\\20250209192234_Create_invoices_table.cs",
+              "RelativeDocumentMoniker": "Exam1Invoice\\Migrations\\20250209192234_Create_invoices_table.cs",
+              "ToolTip": "D:\\Class Work\\Data Access\\Exam1Invoice\\Exam1Invoice\\Migrations\\20250209192234_Create_invoices_table.cs",
+              "RelativeToolTip": "Exam1Invoice\\Migrations\\20250209192234_Create_invoices_table.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T02:35:56.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250209191650_Initial.cs",
+              "DocumentMoniker": "D:\\Class Work\\Data Access\\Exam1Invoice\\Exam1Invoice\\Migrations\\20250209191650_Initial.cs",
+              "RelativeDocumentMoniker": "Exam1Invoice\\Migrations\\20250209191650_Initial.cs",
+              "ToolTip": "D:\\Class Work\\Data Access\\Exam1Invoice\\Exam1Invoice\\Migrations\\20250209191650_Initial.cs",
+              "RelativeToolTip": "Exam1Invoice\\Migrations\\20250209191650_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T02:35:56.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "D:\\Class Work\\Data Access\\Exam1Invoice\\Exam1Invoice\\Invoice.cs",
+              "RelativeDocumentMoniker": "Exam1Invoice\\Invoice.cs",
+              "ToolTip": "D:\\Class Work\\Data Access\\Exam1Invoice\\Exam1Invoice\\Invoice.cs",
+              "RelativeToolTip": "Exam1Invoice\\Invoice.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T19:18:01.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InvoiceContext.cs",
+              "DocumentMoniker": "D:\\Class Work\\Data Access\\Exam1Invoice\\Exam1Invoice\\InvoiceContext.cs",
+              "RelativeDocumentMoniker": "Exam1Invoice\\InvoiceContext.cs",
+              "ToolTip": "D:\\Class Work\\Data Access\\Exam1Invoice\\Exam1Invoice\\InvoiceContext.cs",
+              "RelativeToolTip": "Exam1Invoice\\InvoiceContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T02:35:56.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exam1Invoice.csproj",
+              "DocumentMoniker": "D:\\Class Work\\Data Access\\Exam1Invoice\\Exam1Invoice\\Exam1Invoice.csproj",
+              "RelativeDocumentMoniker": "Exam1Invoice\\Exam1Invoice.csproj",
+              "ToolTip": "D:\\Class Work\\Data Access\\Exam1Invoice\\Exam1Invoice\\Exam1Invoice.csproj",
+              "RelativeToolTip": "Exam1Invoice\\Exam1Invoice.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-09T19:14:29.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Class Work\\Data Access\\Exam1Invoice\\Exam1Invoice\\Program.cs",
+              "RelativeDocumentMoniker": "Exam1Invoice\\Program.cs",
+              "ToolTip": "D:\\Class Work\\Data Access\\Exam1Invoice\\Exam1Invoice\\Program.cs",
+              "RelativeToolTip": "Exam1Invoice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T19:10:51.754Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

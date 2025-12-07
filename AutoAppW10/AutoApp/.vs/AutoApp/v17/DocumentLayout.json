@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Class Work\\Data Access\\AutoAppW10\\AutoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFB032C-D71F-497C-B63A-FCE8C01E5123}|AutoApp\\AutoApp.csproj|d:\\class work\\data access\\autoappw10\\autoapp\\autoapp\\autocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFB032C-D71F-497C-B63A-FCE8C01E5123}|AutoApp\\AutoApp.csproj|solutionrelative:autoapp\\autocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFB032C-D71F-497C-B63A-FCE8C01E5123}|AutoApp\\AutoApp.csproj|d:\\class work\\data access\\autoappw10\\autoapp\\autoapp\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFB032C-D71F-497C-B63A-FCE8C01E5123}|AutoApp\\AutoApp.csproj|solutionrelative:autoapp\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFB032C-D71F-497C-B63A-FCE8C01E5123}|AutoApp\\AutoApp.csproj|d:\\class work\\data access\\autoappw10\\autoapp\\autoapp\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFB032C-D71F-497C-B63A-FCE8C01E5123}|AutoApp\\AutoApp.csproj|solutionrelative:autoapp\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFB032C-D71F-497C-B63A-FCE8C01E5123}|AutoApp\\AutoApp.csproj|d:\\class work\\data access\\autoappw10\\autoapp\\autoapp\\getbankcustomersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFB032C-D71F-497C-B63A-FCE8C01E5123}|AutoApp\\AutoApp.csproj|solutionrelative:autoapp\\getbankcustomersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFB032C-D71F-497C-B63A-FCE8C01E5123}|AutoApp\\AutoApp.csproj|d:\\class work\\data access\\autoappw10\\autoapp\\autoapp\\bankautocustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFB032C-D71F-497C-B63A-FCE8C01E5123}|AutoApp\\AutoApp.csproj|solutionrelative:autoapp\\bankautocustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFB032C-D71F-497C-B63A-FCE8C01E5123}|AutoApp\\AutoApp.csproj|d:\\class work\\data access\\autoappw10\\autoapp\\autoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFB032C-D71F-497C-B63A-FCE8C01E5123}|AutoApp\\AutoApp.csproj|solutionrelative:autoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFB032C-D71F-497C-B63A-FCE8C01E5123}|AutoApp\\AutoApp.csproj|d:\\class work\\data access\\autoappw10\\autoapp\\autoapp\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFB032C-D71F-497C-B63A-FCE8C01E5123}|AutoApp\\AutoApp.csproj|solutionrelative:autoapp\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFB032C-D71F-497C-B63A-FCE8C01E5123}|AutoApp\\AutoApp.csproj|d:\\class work\\data access\\autoappw10\\autoapp\\autoapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8AFB032C-D71F-497C-B63A-FCE8C01E5123}|AutoApp\\AutoApp.csproj|solutionrelative:autoapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFB032C-D71F-497C-B63A-FCE8C01E5123}|AutoApp\\AutoApp.csproj|d:\\class work\\data access\\autoappw10\\autoapp\\autoapp\\autoapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8AFB032C-D71F-497C-B63A-FCE8C01E5123}|AutoApp\\AutoApp.csproj|solutionrelative:autoapp\\autoapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFB032C-D71F-497C-B63A-FCE8C01E5123}|AutoApp\\AutoApp.csproj|d:\\class work\\data access\\autoappw10\\autoapp\\autoapp\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFB032C-D71F-497C-B63A-FCE8C01E5123}|AutoApp\\AutoApp.csproj|solutionrelative:autoapp\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFB032C-D71F-497C-B63A-FCE8C01E5123}|AutoApp\\AutoApp.csproj|d:\\class work\\data access\\autoappw10\\autoapp\\autoapp\\migrations\\20250329211434_getbankcustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFB032C-D71F-497C-B63A-FCE8C01E5123}|AutoApp\\AutoApp.csproj|solutionrelative:autoapp\\migrations\\20250329211434_getbankcustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFB032C-D71F-497C-B63A-FCE8C01E5123}|AutoApp\\AutoApp.csproj|d:\\class work\\data access\\autoappw10\\autoapp\\autoapp\\migrations\\20250329205710_bankautocustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFB032C-D71F-497C-B63A-FCE8C01E5123}|AutoApp\\AutoApp.csproj|solutionrelative:autoapp\\migrations\\20250329205710_bankautocustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AutoApp",
+              "DocumentMoniker": "D:\\Class Work\\Data Access\\AutoAppW10\\AutoApp\\AutoApp\\AutoApp.csproj",
+              "RelativeDocumentMoniker": "AutoApp\\AutoApp.csproj",
+              "ToolTip": "D:\\Class Work\\Data Access\\AutoAppW10\\AutoApp\\AutoApp\\AutoApp.csproj",
+              "RelativeToolTip": "AutoApp\\AutoApp.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-11T17:09:44.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Class Work\\Data Access\\AutoAppW10\\AutoApp\\AutoApp\\appsettings.json",
+              "RelativeDocumentMoniker": "AutoApp\\appsettings.json",
+              "ToolTip": "D:\\Class Work\\Data Access\\AutoAppW10\\AutoApp\\AutoApp\\appsettings.json",
+              "RelativeToolTip": "AutoApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-11T16:10:41.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BankAutoCustomerDTO.cs",
+              "DocumentMoniker": "D:\\Class Work\\Data Access\\AutoAppW10\\AutoApp\\AutoApp\\BankAutoCustomerDTO.cs",
+              "RelativeDocumentMoniker": "AutoApp\\BankAutoCustomerDTO.cs",
+              "ToolTip": "D:\\Class Work\\Data Access\\AutoAppW10\\AutoApp\\AutoApp\\BankAutoCustomerDTO.cs",
+              "RelativeToolTip": "AutoApp\\BankAutoCustomerDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T20:58:46.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Class Work\\Data Access\\AutoAppW10\\AutoApp\\AutoApp\\Program.cs",
+              "RelativeDocumentMoniker": "AutoApp\\Program.cs",
+              "ToolTip": "D:\\Class Work\\Data Access\\AutoAppW10\\AutoApp\\AutoApp\\Program.cs",
+              "RelativeToolTip": "AutoApp\\Program.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T20:55:33.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "D:\\Class Work\\Data Access\\AutoAppW10\\AutoApp\\AutoApp\\Auto.cs",
+              "RelativeDocumentMoniker": "AutoApp\\Auto.cs",
+              "ToolTip": "D:\\Class Work\\Data Access\\AutoAppW10\\AutoApp\\AutoApp\\Auto.cs",
+              "RelativeToolTip": "AutoApp\\Auto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwBUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T20:55:33.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Class Work\\Data Access\\AutoAppW10\\AutoApp\\AutoApp\\Customer.cs",
+              "RelativeDocumentMoniker": "AutoApp\\Customer.cs",
+              "ToolTip": "D:\\Class Work\\Data Access\\AutoAppW10\\AutoApp\\AutoApp\\Customer.cs",
+              "RelativeToolTip": "AutoApp\\Customer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T20:55:33.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "D:\\Class Work\\Data Access\\AutoAppW10\\AutoApp\\AutoApp\\Sale.cs",
+              "RelativeDocumentMoniker": "AutoApp\\Sale.cs",
+              "ToolTip": "D:\\Class Work\\Data Access\\AutoAppW10\\AutoApp\\AutoApp\\Sale.cs",
+              "RelativeToolTip": "AutoApp\\Sale.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T20:55:33.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetBankCustomersDTO.cs",
+              "DocumentMoniker": "D:\\Class Work\\Data Access\\AutoAppW10\\AutoApp\\AutoApp\\GetBankCustomersDTO.cs",
+              "RelativeDocumentMoniker": "AutoApp\\GetBankCustomersDTO.cs",
+              "ToolTip": "D:\\Class Work\\Data Access\\AutoAppW10\\AutoApp\\AutoApp\\GetBankCustomersDTO.cs",
+              "RelativeToolTip": "AutoApp\\GetBankCustomersDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T21:15:55.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutoContext.cs",
+              "DocumentMoniker": "D:\\Class Work\\Data Access\\AutoAppW10\\AutoApp\\AutoApp\\AutoContext.cs",
+              "RelativeDocumentMoniker": "AutoApp\\AutoContext.cs",
+              "ToolTip": "D:\\Class Work\\Data Access\\AutoAppW10\\AutoApp\\AutoApp\\AutoContext.cs",
+              "RelativeToolTip": "AutoApp\\AutoContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T20:55:33.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250329205710_BankAutoCustomers.cs",
+              "DocumentMoniker": "D:\\Class Work\\Data Access\\AutoAppW10\\AutoApp\\AutoApp\\Migrations\\20250329205710_BankAutoCustomers.cs",
+              "RelativeDocumentMoniker": "AutoApp\\Migrations\\20250329205710_BankAutoCustomers.cs",
+              "ToolTip": "D:\\Class Work\\Data Access\\AutoAppW10\\AutoApp\\AutoApp\\Migrations\\20250329205710_BankAutoCustomers.cs",
+              "RelativeToolTip": "AutoApp\\Migrations\\20250329205710_BankAutoCustomers.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA0wBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T16:53:32.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250329211434_GetBankCustomers.cs",
+              "DocumentMoniker": "D:\\Class Work\\Data Access\\AutoAppW10\\AutoApp\\AutoApp\\Migrations\\20250329211434_GetBankCustomers.cs",
+              "RelativeDocumentMoniker": "AutoApp\\Migrations\\20250329211434_GetBankCustomers.cs",
+              "ToolTip": "D:\\Class Work\\Data Access\\AutoAppW10\\AutoApp\\AutoApp\\Migrations\\20250329211434_GetBankCustomers.cs",
+              "RelativeToolTip": "AutoApp\\Migrations\\20250329211434_GetBankCustomers.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAUwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T16:53:32.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "D:\\Class Work\\Data Access\\AutoAppW10\\AutoApp\\AutoApp\\Bank.cs",
+              "RelativeDocumentMoniker": "AutoApp\\Bank.cs",
+              "ToolTip": "D:\\Class Work\\Data Access\\AutoAppW10\\AutoApp\\AutoApp\\Bank.cs",
+              "RelativeToolTip": "AutoApp\\Bank.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T20:55:33.185Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
